@@ -40,8 +40,8 @@
 ## 🌐 Live Projects
 
 - **Responsive Portfolio Website**  
-  🔗 [View Live](https://your-portfolio-link.com)  
-  📝 A personal portfolio showcasing my front-end projects using HTML, CSS, and JavaScript. Fully responsive and mobile-friendly.
+  🔗 [View Live](https://hafsa-developer.github.io/Personal-Portfolio/)  
+  📝 A personal portfolio showcasing my front-end projects using HTML, CSS, JavaScript and Bootstrap. Fully responsive and mobile-friendly.
 
 - **Interactive Calculator App**  
   🔗 [View Live](https://hafsa-developer.github.io/Calculator-App/)  
