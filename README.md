@@ -43,9 +43,9 @@
   🔗 [View Live](https://hafsa-developer.github.io/Personal-Portfolio/)  
   📝 A personal portfolio showcasing my front-end projects using HTML, CSS, JavaScript and Bootstrap. Fully responsive and mobile-friendly.
 
-- **Interactive Calculator App**  
-  🔗 [View Live](https://hafsa-developer.github.io/Calculator-App/)  
-  🧮 A simple calculator with a clean UI, built using JavaScript and styled with Bootstrap.
+- **Online Code Editor**  
+  🔗 [View Live](https://hafsa-developer.github.io/Online-Code-Editor/)  
+  🧮 A responsive, feature-rich web-based code editor with real-time preview, project saving, and console output. Built with HTML, CSS, and JavaScript using CodeMirror.
 
 - **To-Do List Web App**  
   🔗 [View Live](https://hafsa-developer.github.io/Task-Management-App/)  
