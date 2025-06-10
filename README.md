@@ -37,22 +37,18 @@
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo">
 </p>
 
-## 🌐 Live Projects
+## 🌐 Projects
 
 - **Responsive Portfolio Website**  
-  🔗 [View Live](https://hafsa-developer.github.io/Personal-Portfolio/)  
   📝 A personal portfolio showcasing my front-end projects using HTML, CSS, JavaScript and Bootstrap. Fully responsive and mobile-friendly.
 
 - **Online Code Editor**  
-  🔗 [View Live](https://hafsa-developer.github.io/Online-Code-Editor/)  
   🧮 A responsive, feature-rich web-based code editor with real-time preview, project saving, and console output. Built with HTML, CSS, and JavaScript using CodeMirror.
 
-- **To-Do List Web App**  
-  🔗 [View Live](https://hafsa-developer.github.io/Task-Management-App/)  
+- **To-Do List Web App** 
   ✅ A dynamic to-do list with local storage support. Users can add, delete, and check off tasks. Built with vanilla JavaScript.
 
 - **Quiz Application**  
-  🔗 [View Live](https://hafsa-developer.github.io/Quiz-Application/)  
   🧠 A multiple-choice quiz app built with HTML, CSS, and JavaScript. Displays questions, tracks score, and gives feedback in real-time.
 
 
